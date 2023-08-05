@@ -1,0 +1,62 @@
+
+BODY {background-image: url(../img/geha-blog-março-09-03.jpg); }
+.tabelasnomes{
+    padding: 20px;
+     background-color: #524e4d;
+     border: 10px;
+     border: color #FF5722;
+      width: 700px;
+     height: 400px;
+     position: absolute;
+     top: 50%;
+      left: 50%;
+     transform: translate(-50%, -50%);
+     border-radius: 10px;
+}
+
+.imagemescola img{
+    position: absolute;
+   top: 5.8%;
+    width: 100%;
+}
+
+.tabelainicio{
+    padding: 20px;
+    background-color: #ccbcb37a;
+    border: 10px;
+    border: color #c75330;
+     width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+.tabelainicio img{
+
+    width:  700px;
+    height: 460px;
+    
+}
+.botao{
+    background-color: black;
+}
+.tabeladisci{
+    padding: 20px;
+    background-color: #524e4d;
+    border: 10px;
+    border: color #FF5722;
+     width: 700px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+.box-search{
+    display: flex;
+    justify-content: center;
+    gap:.1% ;
+}
